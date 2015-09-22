@@ -1,0 +1,9 @@
+# Maven
+pom.xml.releaseBackup
+release.properties
+target
+
+# Idea IntelliJ
+.idea
+*.iml
+overlays/
