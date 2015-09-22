@@ -18,7 +18,6 @@ Uma forma de conseguir isso com o IntelliJ Community é usando 2 ferramentas:
 - Linux
 
 ## Instalação
-[Github](https://github.com/touchhealth/hot-swap-gulp-watch)
 
 #### Clone
 `git@github.com:touchhealth/hot-swap-gulp-watch.git`
