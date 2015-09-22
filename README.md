@@ -100,3 +100,5 @@ $ gulp watch
 ```
 
 ![Alt](tutorial/print6.png)
+
+Abra o arquivo [gulpfile](gulpfile.js) para mais detalhes.
