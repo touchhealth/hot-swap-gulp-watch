@@ -57,7 +57,7 @@ $ ./bin/catalina.sh jpda start
 ```
 
 #### Acesse
-`http://localhost:8080/hot-swap/hello`
+`http://localhost:8080/hot-swap-gulp-watch/hello`
 
 ## Hot Swap
 
