@@ -20,7 +20,7 @@ Uma forma de conseguir isso com o IntelliJ Community é usando 2 ferramentas:
 ## Instalação
 
 #### Clone
-`git clone git@github.com:touchhealth/hot-swap-gulp-watch.git`
+`$ git clone git@github.com:touchhealth/hot-swap-gulp-watch.git`
 
 #### npm
 `$ sudo apt-get install npm`
