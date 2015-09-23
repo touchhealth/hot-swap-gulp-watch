@@ -11,7 +11,7 @@ Uma forma de conseguir isso com o IntelliJ Community é usando 2 ferramentas:
 
 > Essa aplicação é apenas um exemplo de como utilizar essas técnicas.
 > Para usar em sua própria aplicação, basta seguir as instruções abaixo e se quiser usar o **gulp watch**, 
-> copiar o arquivo [gulpfile](gulpfile.js) para a raiz do seu projeto
+> copiar o arquivo [gulpfile](gulpfile.js) para a raiz do seu projeto e editá-lo conforme suas necessidades.
 
 ## Ambiente
 - IntelliJ Community
