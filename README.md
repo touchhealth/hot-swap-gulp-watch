@@ -9,6 +9,9 @@ Uma forma de conseguir isso com o IntelliJ Community é usando 2 ferramentas:
 - **Debug Remoto**: para Hot Swap de código Java
 - **Gulp Watch**: para copiar resources alterados (JSP, HTML, CSS, JS) para a pasta do deploy.
 
+> Essa aplicação é apenas um exemplo de como utilizar essas técnicas.
+> Para usar em sua própria aplicação, basta seguir as instruções abaixo e se quiser usar o **gulp watch**, copiar o > arquivo [gulpfile](gulpfile.js) para a raiz do seu projeto
+
 ## Ambiente
 - IntelliJ Community
 - Apache Tomcat
